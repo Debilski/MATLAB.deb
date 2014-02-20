@@ -1,0 +1,4 @@
+opt/MATLAB/R2013b/bin/matlab usr/bin/matlab2013b
+opt/MATLAB/R2013b/bin/mbuild usr/bin/mbuild2013b
+opt/MATLAB/R2013b/bin/mex usr/bin/mex2013b
+opt/MATLAB/R2013b/bin/mcc usr/bin/mcc2013b

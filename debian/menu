@@ -1,0 +1,3 @@
+?package(matlab2013b):needs="X11" section="Applications/Science/Data Analysis"\
+  title="Matlab 2013b" command="matlab2013b"\
+  icon="/opt/MATLAB/R2013b/X11/icons/matlab32c_icon.xpm"

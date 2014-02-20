@@ -1,0 +1,14 @@
+Source: matlab2013b
+Section: Science
+Standards-Version: 8.2.0.701
+Maintainer: Rike-Benjamin Schuppner <rike.schuppner@bccn-berlin.de>
+Build-Depends: debhelper (>= 9)
+
+Package: matlab2013b
+Architecture: amd64
+Depends:
+Description: MATLAB - The Language of Technical Computing
+ MATLAB is a high-level language and interactive environment that enables
+ you to perform computationally intensive tasks faster than with traditional
+ programming languages such as C, C++, and Fortran.
+
